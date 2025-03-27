@@ -42,7 +42,7 @@
 
                         <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
                             <Label Text="Check-In" />
-                            <DatePicker x:Name="dtcpk_checkout" Format="dd/MM/yyyy" />
+                            <DatePicker x:Name="dtpck_checkout" Format="dd/MM/yyyy"/>
                         </HorizontalStackLayout>
                     </VerticalStackLayout>
                 </Frame>
